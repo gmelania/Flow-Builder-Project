@@ -26,6 +26,6 @@ To start using the Flow Builder project, follow these steps:
 6. Delete flows that are no longer needed to maintain a clean workspace.
 
 ### Contributors
-Ghirda Melania - Project Lead & Developer
+Ghirda Melania - Project Developer
 
 Chis Daniel/POLITEHNICA Bucuresti National University for Science and Technology - Coordonator
