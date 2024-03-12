@@ -43,11 +43,9 @@ The Flow Builder is a tool designed to help users create linear flows comprising
 
 Classes and objects represent the steps, flows, and analytics. Encapsulation limits access to implementation details, and inheritance helps with code reuse, enabling the extension of base step classes to create specialized types. Polymorphism promotes flexibility, treating diverse step types within flows, and abstractization provides templates for implementations to facilitate the creation of generic structures. Exception handling ensures system stability by managing runtime errors during a flow execution. 
 
-### Getting Started
-
 #### Requirements
 
-* C++ IDEA
+* C++ IDE
 * Git
 
 #### Setup
