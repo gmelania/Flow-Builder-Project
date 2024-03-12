@@ -19,7 +19,7 @@ The Flow Builder is a tool designed to help users create linear flows comprising
 * Text File Input Step: Import a ".txt" file for processing.
 * CSV File Input Step: Import a ".csv" file for processing.
 * Output Step: Generate a text file with the provided information.
-> Requires a name, title, and description for the generated file
+  > Requires a name, title, and description for the generated file
 * End Step: Marks the end of the flow.
 
 ### User Stories
